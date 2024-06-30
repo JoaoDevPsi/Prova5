@@ -1,0 +1,106 @@
+h1{
+    text-align: center;
+}
+
+form{
+    border: #000000 solid 3px;
+    margin: 10%;
+    padding: 15px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    align-items: center;
+}
+
+.nome{
+    border: navy solid 2px;
+    padding: 20px;
+    margin: 10px;
+    width: 26%;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    display: flex;
+}
+
+.telef{
+    border: green solid 2px;
+    padding: 20px;
+    margin: 10px;
+    width: 26%;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    display: flex;
+}
+
+.dat{
+    border: rebeccapurple solid 2px;
+    padding: 20px;
+    margin: 10px;
+    width: 26%;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    display: flex;
+}
+
+.email{
+    border: red solid 2px;
+    padding: 20px;
+    margin: 10px;
+    width: 26%;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    display: flex;
+}
+
+.sobre{
+    border: grey solid 2px;
+    padding: 20px;
+    margin: 10px;
+    width: 26%;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    display: flex;
+}
+
+.enviar{
+    top:20px;
+    left:50px;
+    margin: 10px;
+    padding:10px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    background-color: aqua;
+}
+
+.enviar:hover{
+    background: aliceblue
+    ;
+    color: red;
+    border: red solid 1px;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+}
